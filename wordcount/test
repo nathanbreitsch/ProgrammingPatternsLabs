@@ -1,0 +1,82 @@
+<html> 
+<head> 
+<title>Mikhail's homepage</title> 
+</head> 
+<body bgcolor=white> 
+<table width=100%>
+<tr><td>
+  <center><h2>Mikhail Nesterenko</h2></center>
+<HR width=85% align=left> 
+<table cellpadding=0>
+<tr>
+<td>Office:</td> <td>MSB 356</td>
+</tr>
+<tr>                                     
+<td valign=top>
+Address:
+</td>
+<td>
+<a href="http://www.cs.kent.edu">Computer Science Department</a><br>
+<a href="http://www.kent.edu">Kent State University</a><br>
+Kent, OH 44242<br>
+</td>
+</tr>
+<tr><td>Phone:</td><td>(330) 672-9109</td></tr>
+<tr><td>Fax:</td><td>(330) 672-7824</td></tr>
+<tr><td>Email:</td><td>
+<!--mikhail AT cs.kent.edu-->
+<img src=email.png>
+</td></td></tr>
+<!--<tr><td>Office hours <br>
+Fall 2004):</td><td>TR 1:30-3:00pm</td></tr>-->
+</table>
+<HR width=85% align=left>
+
+I received my B.S. in Applied Mathematics from Moscow Engineering
+Physics Institute, Russia and a Ph.D. in Computer Science from Kansas
+State University. I have been with Kent State University since 1998. <p>
+My research interests are in distributed algorithms, distributed
+systems, and computer networks.  
+
+<!-- My CV can be found <a href=Research/vita.ps>here</a>. --> </td>
+
+<td> <img src=me.jpg> </td> </tr> </table>          <p>
+
+<center> 
+<table cellpadding=10> 
+<tr> 
+<td valign=top> 
+	<a href=Research/><font size=+2><b>Research</b></font></a>
+</td>
+<td valign=top>
+  <center>
+  <font size=+2><b>Teaching</b></font><br>
+  </center>
+  <p>
+  <center><b>Fall 2014</b></center>
+ <ul>
+   <li><a href=classes/csi>CSI: Programming and Problem Solving</a>
+   <li><a href=classes/cs3>CSIII: Programming Patterns</a>
+  </ul>
+  <p><br>
+  <center>
+  <b><a href=classes/oldclasses.html>Old Courses</a></b>
+  </center>
+</td> 
+ <center>
+ <td valign=top><font size=+2><b>Administration</b></font>
+ <p>
+ <li><a href=System>System minutes</a>
+ </center>
+</td>
+<td valign=top> 
+	<a href=Personal/><font size=+2><b>Personal</b></font></a>
+
+</td> 
+</tr>
+</table> 
+</center>
+
+</body>  
+</html>
+

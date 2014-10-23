@@ -1,0 +1,9 @@
+AA1241	A2	Jeffrey	 Wilson 123
+US3878	E1	Barbara	  Walker 321
+AA4316	E2	Jeffrey	   Wilson 89
+DL33	A32 Terry Henderson 1200
+DL1245  D10 Terry Henderson 56
+DL33	A32 Daniel Gonzalez 1105
+SW408 	A2  Gloria Evans    220
+US3878	E1  Gloria Evans    320
+DL33	A32 Gloria Evans    1200
